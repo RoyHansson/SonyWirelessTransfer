@@ -1,0 +1,6 @@
+.build/
+.cache/
+.tmp-home/
+.codex-home/
+.DS_Store
+dist/
